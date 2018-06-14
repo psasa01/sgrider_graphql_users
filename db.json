@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "34",
+      "firstName": "Mujo",
+      "age": 33,
+      "companyId": "1"
+    },
+    {
+      "id": "66",
+      "firstName": "Zehra",
+      "age": 44,
+      "companyId": "1"
+    },
+    {
+      "id": "44",
+      "firstName": "Mišo",
+      "age": 55,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Sasa",
+      "age": 39,
+      "id": "A1VuG_Z"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Sava",
+      "description": "gume"
+    },
+    {
+      "id": "2",
+      "name": "Unitrade",
+      "description": "dijelovi"
+    },
+    {
+      "id": "3",
+      "name": "Maakbeeel",
+      "description": "protekt"
+    }
+  ]
+}
